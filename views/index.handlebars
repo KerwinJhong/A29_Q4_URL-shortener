@@ -1,0 +1,15 @@
+<form action="/" method="POST" class="">
+  <input type="url" name="link" class="searchBox" placeholder="Enter the link here(e.g. https://www.xxxxx.com)">
+  <button type="submit" class="btn btn-outline-success" style="vertical-align: top;">Shorten URL</button>
+</form>
+<p style="width: 600px;margin: 30px auto;">URL Shortener is a tool to shorten a URL or reduce a link.
+  Use our URL Shortener to create a shortened link making it easy to remember.</p>
+{{#if error}}
+<h2 class="text-danger">Ops...,Your URL is not correct</h2>
+{{/if}}
+{{#if createLinkSuccess}}
+<h2>Link shortening successful! Visit your website at:</h2>
+<a href={{{shortenLink}}}>
+  <h2>{{{baseUrl}}}{{{shortenLink}}}</h2>
+</a>
+{{/if}}

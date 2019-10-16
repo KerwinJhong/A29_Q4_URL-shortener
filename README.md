@@ -34,7 +34,7 @@ http://localhost:3000
 ```
 
 ## 專案內容
-![image](https://github.com/KerwinJhong/A29_Q4_URL-shortener/blob/master/URL Shortener.png)
+![image](https://github.com/KerwinJhong/A29_Q4_URL-shortener/blob/master/URL%20Shortener.png)
 
 ## App
 [Link](https://rocky-stream-98104.herokuapp.com)

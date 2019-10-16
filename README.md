@@ -37,7 +37,7 @@ http://localhost:3000
 ![image](https://github.com/KerwinJhong/A29_Q4_URL-shortener/blob/master/URL%20Shortener.png)
 
 ## App
-[Link](https://rocky-stream-98104.herokuapp.com)
+[Link](https://immense-peak-03554.herokuapp.com/)
 
 ## 作者
 [Kerwin Jhong](https://github.com/KerwinJhong)
